@@ -66,4 +66,4 @@ if st.button("🚀 Classify"):
     st.pyplot(fig)
 
 st.markdown("---")
-st.markdown("<p style='text-align: center; font-size: 12px;'>Built with ❤️ using Streamlit | Data from SDSS</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-size: 12px;'>Built with ❤️ by Banajit Rajbongshi | Data from SDSS</p>", unsafe_allow_html=True)
